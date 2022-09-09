@@ -1,0 +1,37 @@
+Start of committee
+Motion to open committee
+Motion to set the agenda
+Motion to open debate
+Motion to open the speakers’ list
+Motion to amend the agenda
+
+Debate
+Motion to limit/extend speaker’s time
+Motion for a moderated caucus
+Motion for an unmoderated caucus
+Motion for a roll call caucus
+Motion to limit/extend debate
+Motion to introduce a working paper
+Motion to introduce an amendment
+- friendly
+- unfriendly
+Motion to table a resolution
+Motion to take from the table
+Motion to enter voting procedures
+
+Voting Procedures
+Motion to divide the question
+Motion to change voting style
+- roll call vote
+- unanimous consent
+Motion to table a resolution
+Motion to take from the table
+
+End of committee
+Motion to suspend committee
+Motion to adjourn
+
+Anytime
+Point of order
+Right of reply
+Point of inquiry

@@ -1,0 +1,5 @@
+china, present
+france, present
+japan, voting
+mexico, voting
+spain, voting
